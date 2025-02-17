@@ -11,4 +11,4 @@ python3 main.py
 cd ..
 npm i && npm run dev
 ```
-#then go to localhost as mentioned and give the company URL and Gemini API Key
+# then go to localhost as mentioned and give the company URL and Gemini API Key
